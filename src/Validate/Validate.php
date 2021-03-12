@@ -10,7 +10,7 @@ use Mzh\Validate\Exception\ValidateException;
 class Validate
 {
     /**
-     * 自定义验证类型//
+     * 自定义验证类型
      * @var array
      */
     protected $type = [];
